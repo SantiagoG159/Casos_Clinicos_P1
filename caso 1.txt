@@ -1,0 +1,5 @@
+# Casos_Clinicos_P1
+Lee N lecturas de glucosa (mg/dL), calcula promedio y muestra:
+-“HIPERGLUCEMIA” si >180, 
+-“NORMAL” si entre 70–180, 
+-“HIPOGLUCEMIA” si <70.
